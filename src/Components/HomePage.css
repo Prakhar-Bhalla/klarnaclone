@@ -1,0 +1,9 @@
+#mainBox {
+  width: 90%;
+  margin: 100px auto;
+}
+#mainBox h1 {
+  font-size: 45px;
+  font-weight: 700;
+  margin: 0 0;
+}
